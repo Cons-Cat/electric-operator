@@ -585,6 +585,9 @@ Any better ideas would be welcomed."
                                       (cons "<<=" " <<= ")
                                       (cons ">>=" " >>= ")
 
+                                      ;; CUDA
+                                      (cons "<<<" " <<< ")
+                                      (cons ">>>" " >>> ")
                                       )
 
 
